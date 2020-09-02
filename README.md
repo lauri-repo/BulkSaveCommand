@@ -1,7 +1,7 @@
 # BulkSaveCommand
 A wrapper around System.Data.SqlClient.SqlBulkCopy making it much more flexible. Easily persist massive amounts of data in your System.Data.DataTable into Microsoft SQL Server.  
 
-This work is in the public domain (see LICENSE file or https://unlicense.org file for more info) meaning you can use, modify and redistribute this work in any way, (for personal, commercial or other purposes) without any limits and any need for attribution.
+This work is in the public domain (see LICENSE file or https://unlicense.org for more info) meaning you can use, modify and redistribute this work in any way, (for personal, commercial or other purposes) without any limits and any need for attribution.
 
 
 Main features:  
